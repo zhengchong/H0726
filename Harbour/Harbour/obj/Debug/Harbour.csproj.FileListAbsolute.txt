@@ -1,0 +1,47 @@
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Harbour.exe.config
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\obj\Debug\Harbour.csprojResolveAssemblyReference.cache
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\obj\Debug\Harbour.frmMain.resources
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\obj\Debug\Harbour.Properties.Resources.resources
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\obj\Debug\Harbour.csproj.GenerateResource.Cache
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Harbour.exe
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Harbour.pdb
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Common.dll
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\EntityFramework.dll
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Harbour_BLL.dll
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Model.dll
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Common.pdb
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Harbour_BLL.pdb
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Model.pdb
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\EntityFramework.xml
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\zh-Hans\EntityFramework.resources.dll
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\obj\Debug\Harbour.exe
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\obj\Debug\Harbour.pdb
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Harbour_DAL.dll
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\bin\Debug\Harbour_DAL.pdb
+c:\users\khlin\documents\visual studio 2013\Projects\Harbour\Harbour\obj\Debug\Harbour.frmLogIn.resources
+D:\Harbour\Harbour\bin\Debug\Harbour.exe.config
+D:\Harbour\Harbour\obj\Debug\Harbour.exe
+D:\Harbour\Harbour\obj\Debug\Harbour.pdb
+D:\Harbour\Harbour\obj\Debug\Harbour.csprojResolveAssemblyReference.cache
+D:\Harbour\Harbour\obj\Debug\Harbour.frmLogIn.resources
+D:\Harbour\Harbour\obj\Debug\Harbour.frmMain.resources
+D:\Harbour\Harbour\obj\Debug\Harbour.Properties.Resources.resources
+D:\Harbour\Harbour\obj\Debug\Harbour.csproj.GenerateResource.Cache
+D:\Harbour\Harbour\bin\Debug\Harbour.exe
+D:\Harbour\Harbour\bin\Debug\Harbour.pdb
+D:\Harbour\Harbour\bin\Debug\Common.dll
+D:\Harbour\Harbour\bin\Debug\EntityFramework.dll
+D:\Harbour\Harbour\bin\Debug\EntityFramework.SqlServer.dll
+D:\Harbour\Harbour\bin\Debug\Harbour_BLL.dll
+D:\Harbour\Harbour\bin\Debug\Model.dll
+D:\Harbour\Harbour\bin\Debug\Harbour_DAL.dll
+D:\Harbour\Harbour\bin\Debug\Common.pdb
+D:\Harbour\Harbour\bin\Debug\Harbour_BLL.pdb
+D:\Harbour\Harbour\bin\Debug\Model.pdb
+D:\Harbour\Harbour\bin\Debug\EntityFramework.xml
+D:\Harbour\Harbour\bin\Debug\EntityFramework.SqlServer.xml
+D:\Harbour\Harbour\bin\Debug\Harbour_DAL.pdb
+D:\Harbour\Harbour\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Harbour\Harbour\obj\Debug\Harbour.frmContainerBusiness.resources
