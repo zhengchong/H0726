@@ -1,0 +1,15 @@
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\Harbour_DAL.dll.config
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\Harbour_DAL.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\Harbour_DAL.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\Common.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\EntityFramework.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\Model.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\Common.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\Model.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\EntityFramework.xml
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\obj\Release\Harbour_DAL.csprojResolveAssemblyReference.cache
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\obj\Release\Harbour_DAL.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour_DAL\obj\Release\Harbour_DAL.pdb

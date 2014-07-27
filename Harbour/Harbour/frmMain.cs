@@ -84,6 +84,15 @@ namespace Harbour
         private void subMenuClick(object sender, EventArgs e)
         {
             string name = ((ToolStripMenuItem)sender).Name;
+            //如果当前打开的子窗口中有将要打开的窗口名，则不打开，而是激活已打开的窗口
+            foreach (Form frmChild in this.MdiChildren)
+            {
+                if (frmChild.Name == name)
+                {
+                    frmChild.Activate();
+                    return;
+                }
+            }
             Assembly assembly = Assembly.Load("Harbour");
             Form frm = (Form)assembly.CreateInstance("Harbour." + name);
             frm.MdiParent = this;

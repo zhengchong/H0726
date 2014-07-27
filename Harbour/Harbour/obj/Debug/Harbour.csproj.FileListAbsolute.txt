@@ -48,3 +48,36 @@ D:\Harbour\Harbour\obj\Debug\Harbour.frmContainerBusiness.resources
 D:\Harbor Project\H0726\Harbour\Harbour\bin\Debug\Harbour.exe.config
 D:\Harbor Project\H0726\Harbour\Harbour\obj\Debug\Harbour.exe
 D:\Harbor Project\H0726\Harbour\Harbour\obj\Debug\Harbour.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Harbour.exe.config
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.exe
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Harbour.exe
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Harbour.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Common.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\EntityFramework.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Harbour_BLL.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Model.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Harbour_DAL.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Common.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Harbour_BLL.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Model.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\EntityFramework.xml
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\Harbour_DAL.pdb
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.csprojResolveAssemblyReference.cache
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmChargeItemInfo.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmContainerBusiness.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmContainerCharge.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmContainerParameters.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmContractInfo.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmCustomerInfo.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmLogIn.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmMain.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmTariffInfo.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmVesselBusiness.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmVesselCharge.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.frmVesselInfo.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.Properties.Resources.resources
+C:\Users\生\Documents\GitHub\H0726\Harbour\Harbour\obj\Debug\Harbour.csproj.GenerateResource.Cache
