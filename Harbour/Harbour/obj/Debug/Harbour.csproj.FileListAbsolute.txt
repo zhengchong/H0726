@@ -45,3 +45,6 @@ D:\Harbour\Harbour\bin\Debug\EntityFramework.SqlServer.xml
 D:\Harbour\Harbour\bin\Debug\Harbour_DAL.pdb
 D:\Harbour\Harbour\bin\Debug\zh-Hans\EntityFramework.resources.dll
 D:\Harbour\Harbour\obj\Debug\Harbour.frmContainerBusiness.resources
+D:\Harbor Project\H0726\Harbour\Harbour\bin\Debug\Harbour.exe.config
+D:\Harbor Project\H0726\Harbour\Harbour\obj\Debug\Harbour.exe
+D:\Harbor Project\H0726\Harbour\Harbour\obj\Debug\Harbour.pdb

@@ -16,5 +16,10 @@ namespace Harbour
         {
             InitializeComponent();
         }
+
+        private void dgvCntCharge_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

@@ -137,14 +137,41 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmChargeItemInfo.resx">
+      <DependentUpon>frmChargeItemInfo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmContainerBusiness.resx">
       <DependentUpon>frmContainerBusiness.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContainerCharge.resx">
+      <DependentUpon>frmContainerCharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContainerParameters.resx">
+      <DependentUpon>frmContainerParameters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContractInfo.resx">
+      <DependentUpon>frmContractInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerInfo.resx">
+      <DependentUpon>frmCustomerInfo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogIn.resx">
       <DependentUpon>frmLogIn.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTariffInfo.resx">
+      <DependentUpon>frmTariffInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVesselBusiness.resx">
+      <DependentUpon>frmVesselBusiness.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVesselCharge.resx">
+      <DependentUpon>frmVesselCharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVesselInfo.resx">
+      <DependentUpon>frmVesselInfo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -16,5 +16,10 @@ namespace Harbour
         {
             InitializeComponent();
         }
+
+        private void frmContainerCharge_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
